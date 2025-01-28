@@ -16,7 +16,7 @@ function Service2() {
                             <div className="row">
                                 <div className="col-lg-12 text-center">
                                     <h1 className="text-display-2">Strong branding simplifies your <span className="color-green-900">hiring process </span>Easier</h1>
-                                    <p className="text-body-lead-large color-gray-500 mt-40 pr-40">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p className="text-body-lead-large color-gray-500 mt-40 pr-40">Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industrys standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                                     <div className="mt-40 text-center">
                                         <Link href="/contact"><a className="btn btn-black icon-arrow-right-white">Get Started</a></Link>
 
@@ -42,8 +42,8 @@ function Service2() {
                 </section>
                 <section className="section-box overflow-visible mt-70">
                     <div className="container text-center">
-                        <h2 className="text-heading-3  color-gray-900 mb-60">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </h2>
-                        <p className="text-body-lead-large color-gray-500 mt-40 ">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <h2 className="text-heading-3  color-gray-900 mb-60">Lorem Ipsum is simply dummy text of the printing and typesetting industry</h2>
+                        <p className="text-body-lead-large color-gray-500 mt-40 ">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
                         <br></br><br></br>
                         <div className="row">
                             <div className="col-sm-3">
@@ -141,7 +141,7 @@ function Service2() {
                             <div className="col-lg-2 col-sm-1 col-12" />
                             <div className="col-lg-8 col-sm-10 col-12 text-center mt-40">
                                 <h2 className="text-heading-1 color-gray-900 mb-10">The generated Lorem Ipsum</h2>
-                                <p className="text-body-lead-large color-gray-600 mt-20">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised</p>
+                                <p className="text-body-lead-large color-gray-600 mt-20">There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form by injected humour or randomised</p>
                             </div>
                             <div className="col-lg-2 col-sm-1 col-12" />
                         </div>
@@ -151,14 +151,14 @@ function Service2() {
                             <div className="col-lg-6 col-sm-12">
                                 <div className="bg-2 box-square hover-up">
                                     <h4 className="text-heading-4 color-gray-900 mb-15">BUILDS TRUST</h4>
-                                    <p className="text-body-text-md color-gray-600">We can increase trust using effective branding.</p>
+                                    <p className="text-body-text-md color-gray-600">We can increase trust using effective branding</p>
                                     <div className="box-image-inner bg-color-1"><img width="90%" src="/assets/imgs/template/Digital-marketing-trends-2022.jpg" ></img></div>
                                 </div>
                             </div>
                             <div className="col-lg-6 col-sm-12">
                                 <div className="bg-2 box-square hover-up">
                                     <h4 className="text-heading-4 color-gray-900 mb-15">ATTRACT TALENT</h4>
-                                    <p className="text-body-text-md color-gray-600">Building a strong brand makes great talent to chase the company.</p>
+                                    <p className="text-body-text-md color-gray-600">Building a strong brand makes great talent to chase the company</p>
                                     <div className="box-image-inner bg-color-2"><img width="100%" src="/assets/imgs/template/employer-branding-examples.png"></img></div>
                                 </div>
                             </div>
