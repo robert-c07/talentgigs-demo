@@ -26,10 +26,10 @@ function About1() {
                                     <h1 className="text-display-3 mt-30">Empowering Colleges with Expert Placement Solutions</h1>
                                     <p className="text-body-lead-large color-gray-500 mt-40 pr-40">we act as a dedicated Placement Partner, connecting colleges with top recruiters to enhance student employability and campus placements.</p>
                                     <div className="mt-40">
-                                        <Link href="/page-service-1"><a className="btn btn-black shape-square icon-arrow-right-white">Partner with us 
+                                        <Link href="#"><a className="btn btn-black shape-square icon-arrow-right-white">Partner with us 
                                         </a></Link>
 
-                                        <Link href="/page-contact"><a className="btn btn-link color-gray-900 icon-arrow-right text-heading-6">Contact Us
+                                        <Link href="/contact"><a className="btn btn-link color-gray-900 icon-arrow-right text-heading-6">Contact Us
                                         </a></Link>
                                     </div>
                                 </div>
