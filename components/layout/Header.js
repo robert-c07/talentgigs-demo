@@ -106,7 +106,7 @@ const Header = ({ toggleMenu, headerStyle }) => {
                                             </ul> */}
                                         </li>
                                         <li>
-                                        <Link href="/placement-partner"><a>Placement Partner</a></Link>
+                                        <Link href="/campus-partner"><a>Campus Partner</a></Link>
                                         </li>
                                         <li><Link href="/contact"><a>Contact</a></Link></li>
                                         {/* <li className="has-children">

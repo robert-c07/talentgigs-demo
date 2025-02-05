@@ -157,7 +157,7 @@ function About1() {
                                 </div>
                             </div>
                             <div className="col-lg-4 col-sm-12">
-                                <div className="card-grid-style-3 bd-bg-6 pb-40 mb-30">
+                                <div className="card-grid-style-3 bd-bg-6 pb-55 mb-30">
                                     <div className="grid-1-img"><img src="/assets/imgs/page/homepage1/icons8.png" alt="Agon" /></div>
                                     <h3 className="text-heading-3 mt-20">Faster & Higher Hiring Rates</h3>
                                     <p className="text-body-excerpt mt-20">Our extensive industry network ensures quicker and more successful placements.</p><br></br>
@@ -347,7 +347,7 @@ function About1() {
                     channel="youtube"
                     autoplay
                     isOpen={isOpen}
-                    videoId="7e90gBu4pas"
+                    videoId="M8qLrVQkxd8"
                     onClose={() => setOpen(false)}
                 />
             </Layout>
