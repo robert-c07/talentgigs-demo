@@ -42,7 +42,7 @@ function ContactForm() {
       if (response.ok) {
         const result = await response.json();
         console.log(result);
-        setFormStatus(result.result + "....! Your form submitted successfully");
+        setFormStatus(result.result + "....!");
         setFormData({ Name: '', Email: '', Phone: '', Company: '', Message: '' });
       } else {
         setFormStatus('Failed to submit the form. Please try again.');
@@ -156,6 +156,10 @@ function ContactForm() {
                                         />
                                     </div>
                                 </div>
+
+                                {loading && <p className='p-10'>Loading...</p>}
+                                {formStatus && <p className='p-20'>{formStatus}</p>}
+
                                 <div className="col-lg-12 mt-15">
                                     <button
                                         className="btn btn-black icon-arrow-right-white mr-40 mb-20"
@@ -165,9 +169,6 @@ function ContactForm() {
                                     </button>
                                     <br className="d-lg-none d-block" /><span className="text-body-text-md color-gray-500 mb-20"><br />By clicking contact us button, you agree our terms and policy,</span>
                                 </div>
-
-                                {loading && <p className='p-10'>Loading...</p>}
-                                {formStatus && <p className='p-20'>{formStatus}</p>}
                         </div>
                             </form>
                     </div>
